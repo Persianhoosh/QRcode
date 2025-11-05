@@ -15,7 +15,7 @@
 2.Run the Script:
    ===============================
      bash :
-     ~> python qrcode.py
+     ~> python qr-code.py
 _________________________________
 
 Note
