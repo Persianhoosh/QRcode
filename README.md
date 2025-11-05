@@ -33,9 +33,8 @@ Features:
     Simple Tkinter GUI interface
     Auto dependency installation
 
-📦 Tech Stack: Python 3.10, Tkinter, qrcode, Pillow, arabic_reshaper, python-bidi
-📁 Output: my_qr.png
-👤 Author: AiHoma
+##📁 Output: my_qr.png
+##👤 Author: AiHoma
 _________________________________
 
 Fallow me :
