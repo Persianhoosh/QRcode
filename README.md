@@ -2,8 +2,8 @@
 =
     QRcode Generator
 <p align="center">
-  <img src="https://github.com/Persianhoosh/i-.icons/raw/main/QR1.png" width="400" style="margin-right:10px;"/>
-  <img src="https://github.com/Persianhoosh/i-.icons/raw/main/QR2.png" width="400"/>
+  <img src="https://github.com/Persianhoosh/i-.icons/raw/main/QR1.png" width="300" style="margin-right:10px;"/>
+  <img src="https://github.com/Persianhoosh/i-.icons/raw/main/QR2.png" width="300"/>
 </p>
 
 
