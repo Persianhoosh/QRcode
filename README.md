@@ -1,6 +1,9 @@
 *How to Use:*
 =
     QRcode Generator
+![qrcode](https://github.com/Persianhoosh/i-.icons/raw/main/QR1.png)
+![qrcode](https://github.com/Persianhoosh/i-.icons/raw/main/QR2.png)
+
 
 1.Install Dependencies:
    ==============================
