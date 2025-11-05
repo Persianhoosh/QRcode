@@ -33,8 +33,8 @@ Features:
     Simple Tkinter GUI interface
     Auto dependency installation
 
-##📁 Output: my_qr.png
-##👤 Author: AiHoma
+📁 *Output: my_qr.png*
+👤 *Author: AiHoma*
 _________________________________
 
 Fallow me :
